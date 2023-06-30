@@ -7,4 +7,4 @@ for i in range(rows):
     for j in range(columns):
         print(symbols,end="")
 
-print("Thanks for using my website!")
+print("Thanks for using my website!!")
